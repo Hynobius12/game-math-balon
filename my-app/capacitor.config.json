@@ -1,0 +1,15 @@
+{
+  "appId": "com.firdaus.balloonmaths",
+  "appName": "ballon maths",
+  "webDir": "dist",
+  "server": {
+    "url": "https://game-math-balon.vercel.app/",
+    "cleartext": true,
+    "allowNavigation": ["*"]
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
